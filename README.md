@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Contact me  [www.webfolio-livid.vercel.app/contact](here)
+### Contact me  [here](www.webfolio-livid.vercel.app/contact)
 <!--
 **shawnbirring/shawnbirring** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
